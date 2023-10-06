@@ -18,7 +18,7 @@ Installation
 Clone this repository to your local machine:
 
 
-git clone https://github.com/your-username/flutter-todo-app.git
+git clone https://github.com/abdulke96/flutter-todo-app.git
 Navigate to the project directory:
 
 cd flutter-todo-app
